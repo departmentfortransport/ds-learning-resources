@@ -18,7 +18,7 @@
 [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.<br/>
 [#Javascript30 (Tutorial)](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.<br/>
 [Setting up React, Webpack and Babel (Article)](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.<br/>
-[Webpack 4 (Article)](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.<br/>
+[How to set up Webpack 4 (Article)](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.<br/>
 [Switching from Gulp to Webpack](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/) Need to evaluate this...<br/>
 [End to End Testing](https://www.valentinog.com/blog/javascript-end-to-end-testing-cypress/) Need to evaluate this...<br/>
 
@@ -26,7 +26,7 @@
 [D3 Is not a Data Visualisation Library (Article)](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520) Excellent intro to D3.<br/>
 
 ### React Resources
-[Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux<br/>
+[Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.<br/>
 
 ## Linux
 
@@ -43,7 +43,8 @@
 
 ## General Data Visualisation
 
-[DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)<br/>
-[Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes<br/>
+[DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript).<br/>
+[Cooloors](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes.<br/>
+[Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes.<br/>
 
 
