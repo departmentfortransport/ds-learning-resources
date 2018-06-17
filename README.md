@@ -31,6 +31,8 @@
 ## Linux
 
 ## Git
+[Github - Resources to learn Git](https://try.github.io/)
+[Getting Git](https://gettinggit.com/) A comprehensive video course from git init to Git Master.
 
 ## DevOps
 
