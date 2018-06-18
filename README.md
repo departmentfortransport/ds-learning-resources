@@ -40,8 +40,6 @@
 ### React Resources
 * [Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.<br/>
 
-## Linux
-
 ## Git
 * [Github - Resources to learn Git](https://try.github.io/) List of good resources to learn git.
 * [Learn git branching](https://learngitbranching.js.org/) The GitHub guide covers the basics more clearly, but the later chapters of this resource is good for learning how to get out of more complex git puzzles. 
@@ -50,8 +48,6 @@
 ## DevOps
 
 * Lots of interactive courses on containerisation (e.g. Docker, Kubernetes) available at [Katacoda](https://www.katacoda.com/)
-
-## Testing
 
 ## General Data Science
 
