@@ -13,14 +13,10 @@
 ## R
 
 * [R for Data Science](http://r4ds.had.co.nz/) A good starting point for learning modern R with the Tidyverse style code.
-
 * [Advanced R](http://adv-r.had.co.nz/) Useful when you want to understand the underlying processes of R and write more advanced code (for example, [object orientated programming in R](http://adv-r.had.co.nz/OO-essentials.html))
-
 * [R packages](http://r-pkgs.had.co.nz/) A good reference book when structuring your code as a package (what files go where + how to handle package imports etc)
-
 * [R Graph Gallery (Website)](https://www.r-graph-gallery.com/) Gallery of lots of R charts complete with source code.<br/>
 
-  
 
 ## Javascript / Web Development
 
