@@ -4,6 +4,7 @@
 
 ## Python
 
+* [Python for Analysts](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.<br/>
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.<br/>
 * [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.<br/>
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.<br/>
