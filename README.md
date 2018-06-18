@@ -38,6 +38,7 @@
 
 ## Git
 * [Github - Resources to learn Git](https://try.github.io/) List of good resources to learn git.
+* [Github learning lab](https://lab.github.com/) Interactive tutorial that covers the basics of GitHub.
 * [Learn git branching](https://learngitbranching.js.org/) The GitHub guide covers the basics more clearly, but the later chapters of this resource is good for learning how to get out of more complex git puzzles. 
 * [Getting Git](https://gettinggit.com/) A comprehensive video course from git init to Git Master ($30)
 
