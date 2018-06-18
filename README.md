@@ -17,6 +17,7 @@
 
 ### General Resources
 
+* [The Complete Web Developer Course](https://www.udemy.com/the-complete-web-developer-course-2/) Excellent intro to HTML/CSS/JS as well as packages such as Bootstrap & JQuery.<br/>
 * [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.<br/>
 * [#Javascript30 (Tutorial)](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.<br/>
 * [Setting up React, Webpack and Babel (Article)](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.<br/>
