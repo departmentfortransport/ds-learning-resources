@@ -20,7 +20,7 @@
 
 ## Scala
 
-* [Scala Docs] (https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
+* [Scala Docs](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
 * [Scala Exercises](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
 
 ## Javascript / Web Development
