@@ -28,8 +28,10 @@
 ### General Resources
 
 * [The Complete Web Developer Course](https://www.udemy.com/the-complete-web-developer-course-2/) Excellent intro to HTML/CSS/JS as well as packages such as Bootstrap & JQuery.<br/>
-* [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.<br/>
+* [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) Complete list of all HTML elements.
+* [List of Special Characters](https://css-tricks.com/snippets/html/glyphs/)  Codes and decodes for special characters in HTML.
 * [#Javascript30 (Tutorial)](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.<br/>
+* [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.<br/>
 * [Setting up React, Webpack and Babel (Article)](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.<br/>
 * [How to set up Webpack 4 (Article)](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.<br/>
 * [Switching from Gulp to Webpack](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/) Need to evaluate this...<br/>
@@ -56,8 +58,21 @@
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.<br/>
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.<br/>
 
-## General Data Visualisation
+## General Data Visualisation & Design
 
-* [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript).<br/>
-* [Cooloors](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes.<br/>
-* [Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes.<br/>
+* [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
+* [Material Palette](https://www.materialpalette.com/) Generates nice colours for an app or design
+* [Cooloors](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes
+* [Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes
+* [Unsplash](https://unsplash.com/) Royalty free high-res photos
+* [TheStocks](http://thestocks.im/) Royalty free photos
+* [ISORepublic](https://isorepublic.com/) Royalty free photos
+* [Pixabay](https://pixabay.com/en/) Royalty free photos
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) Tiled Patterns for sites & presentations
+* [Dribbble](https://dribbble.com/) Nice site for inspiration on designs
+* [SiteInspire](https://www.siteinspire.com/) Showcase of good, responsive website design
+* [MediaQueries](https://mediaqueri.es/2/) Showcase of good, responsive website design
+
+## Data
+
+* [Random User Data](https://randomuser.me/) Generates random user data through an API
