@@ -9,6 +9,10 @@
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 monhts (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
 
+## General Machine Learning Resources
+
+* [What is One Hot Encoding?](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+
 ## Python
 
 * [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
@@ -17,6 +21,7 @@
 * [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
 * [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
+* [JupyterLan Extensions](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
 
 ## R
 
