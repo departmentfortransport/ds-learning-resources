@@ -63,6 +63,7 @@
 * [D3 Is not a Data Visualisation Library (Article)](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520) Excellent intro to D3.
 
 ### React Resources
+* [How to React (Article)](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 * [Intro to React (Article)](https://hackernoon.com/reacting-to-react-js-10ff1d50a36c) Excellent intro to React incorporating props, state and JSX.
 * [Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.
 
