@@ -8,7 +8,8 @@
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 monhts (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
-* [Datacamp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp.  
+* [Datacamp Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
+* [Seven Practical Ideas for Beginner Data Scientists](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab) 
 
 ## General Machine Learning Resources
 
