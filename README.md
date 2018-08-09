@@ -2,6 +2,10 @@
 
  A repo for us to share good learning resources, tutorials, cheat-sheets etc. as well as resources that can make people's lives easier. Please link to actual and specific resources rather than API references, websites, collections etc. Please also indicate in the title what kind of resource it is (e.g. book, tutorial, video etc.)
 
+## General Resources
+
+* [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
+* [Another Sublime Text Cheatsheet](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
 
 ## General Data Science Resources
 
@@ -22,6 +26,9 @@
 
 ## Python
 
+* [Complete Python Bootcamp (Udemy Course)](https://www.udemy.com/complete-python-bootcamp/) Really good introduction to Python using Jupyter Notebooks.
+* [Python for Data Analysis & Visualisation (Udemy Course)](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/) Excellent intro to the data analyis libraries in Python.
+* [Python for Data Science & Machine Learning (Udemy Course)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
 * [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
 * [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
@@ -41,6 +48,10 @@
 
 * [Scala Docs (Tutorial)](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
 * [Scala Exercises (Tutorial)](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
+
+## SQL
+
+* [Complete SQL Bootcamp (Udemy Course)](https://www.udemy.com/the-complete-sql-bootcamp/) Intro to SQL and PostgreSQL.
 
 ## Javascript / Web Development
 
