@@ -2,7 +2,7 @@
 
  A repo for us to share good learning resources, tutorials, cheat-sheets etc. as well as resources that can make people's lives easier. Please link to actual and specific resources rather than API references, websites, collections etc. Please also indicate in the title what kind of resource it is (e.g. book, tutorial, video etc.)
 
-## General Resources
+## General Coding Resources
 
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
 * [Another Sublime Text Cheatsheet](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
@@ -23,6 +23,10 @@
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Deep Learning Cheatsheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
+
+## Geographic Resources
+
+* [Mapshaper](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise and simplify them.
 
 ## Python
 
