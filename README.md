@@ -1,13 +1,13 @@
 # Learning Resources
 
- A repo for us to share good learning resources, tutorials, cheat-sheets etc. as well as resources that can make people's lives easier. Please link to actual and specific resources rather than API references, websites, collections etc. Please also indicate in the title what kind of resource it is (e.g. book, tutorial, video etc.)
+A repo for us to share good learning resources, tutorials, cheat-sheets etc. as well as resources that can make people's lives easier. Please link to actual and specific resources rather than API references, websites, collections etc. Please also indicate in the title what kind of resource it is (e.g. book, tutorial, video etc.)
 
-## General Coding Resources
+## Text Editors
 
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
 * [Another Sublime Text Cheatsheet](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
 
-## General Data Science Resources
+## General Data Science
 
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
@@ -15,7 +15,7 @@
 * [Datacamp Cheat Sheets (Articla)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Articla)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab) 
 
-## General Machine Learning Resources
+## Machine Learning
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
 * [Time Series Forcasting with Naive Bayes (Article + Notebook)](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
@@ -24,7 +24,7 @@
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Deep Learning Cheatsheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
 
-## Geographic Resources
+## Geographic
 
 * [Mapshaper](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise and simplify them.
 
@@ -52,6 +52,7 @@
 
 * [Scala Docs (Tutorial)](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html) Getting started guide.
 * [Scala Exercises (Tutorial)](https://www.scala-exercises.org/scala_tutorial/terms_and_types) Beginner level tutorial.
+* [Just Enough Scala for Spark](https://github.com/deanwampler/JustEnoughScalaForSpark) good introduction to Scala for interfacing with Spark DataFrame and RDD APIs. 
 
 ## SQL
 
@@ -59,11 +60,11 @@
 
 ## Javascript / Web Development
 
-### General Web Development
+### Testing
 
 * [MS VM Images](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`
 
-### Javascript Resources
+### Javascript
 
 * [The Complete Web Developer Course (Udemy Course)](https://www.udemy.com/the-complete-web-developer-course-2/) Excellent intro to HTML/CSS/JS as well as packages such as Bootstrap & JQuery.
 * [HTML Elements Reference (Reference)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) Complete list of all HTML elements.
@@ -76,10 +77,10 @@
 * [Switching from Gulp to Webpack (Article)](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/) Need to evaluate this...
 * [End to End Testing (Article)](https://www.valentinog.com/blog/javascript-end-to-end-testing-cypress/) Need to evaluate this...
 
-### D3 Resources
+### D3
 * [D3 Is not a Data Visualisation Library (Article)](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520) Excellent intro to D3.
 
-### React Resources
+### React
 * [How to React (Article)](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 * [Intro to React (Article)](https://hackernoon.com/reacting-to-react-js-10ff1d50a36c) Excellent intro to React incorporating props, state and JSX.
 * [Redux Tutorial (Article)](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) Very good intro to Redux and React-redux.
@@ -94,9 +95,14 @@
 
 * Lots of interactive courses on containerisation (e.g. Docker, Kubernetes) available at [Katacoda](https://www.katacoda.com/)
 
-## General Data Visualisation & Design
+## Data Visualisation
 
 * [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
+
+
+## Design
+
+
 * [Material Palette (Website)](https://www.materialpalette.com/) Generates nice colours for an app or design
 * [Cooloors (Website)](https://coolors.co/c5ebc3-b7c8b5-a790a5-875c74-54414e) Site that helps you generate good color palettes
 * [Viz Palette (Website)](http://projects.susielu.com/viz-palette) Site that helps you make nice colour palettes
@@ -110,5 +116,7 @@
 * [MediaQueries (Website)](https://mediaqueri.es/2/) Showcase of good, responsive website design
 
 ## Data
+
+Also see [departmentfortransport/ds-data-sources](https://github.com/departmentfortransport/ds-data-sources).
 
 * [Random User Data](https://randomuser.me/) Generates random user data through an API
