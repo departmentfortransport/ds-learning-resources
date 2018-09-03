@@ -12,12 +12,13 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
-* [Datacamp Cheat Sheets (Articla)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
+* [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Articla)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab) 
 
 ## Machine Learning
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
+* [Machine Learning Yearning (eBook)](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
 * [Time Series Forcasting with Naive Bayes (Article + Notebook)](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
 * [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
