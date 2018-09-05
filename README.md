@@ -42,6 +42,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
 * [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
 * [JupyterLab Extensions (Documentation)](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
+* [Jupyter Shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
 
 ## R
 
