@@ -9,6 +9,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 ## General Data Science
 
+* [Python Data Science Handbook (ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly book on Data Science with Python, covering Numpy, Pandas, Matplotlib and SKL.
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
