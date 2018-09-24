@@ -9,7 +9,6 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 ## General Data Science
 
-* [Python Data Science Handbook (ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly book on Data Science with Python, covering Numpy, Pandas, Matplotlib and SKL.
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
@@ -24,7 +23,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Deep Learning Cheatsheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
+* [Practical Guide to SVM Classification](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)
 
 ## Geographic
 
@@ -39,6 +38,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
 * [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
+* [Python Data Science Handbook (ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly book on Data Science with Python, covering Numpy, Pandas, Matplotlib and SKL.
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
 * [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
 * [JupyterLab Extensions (Documentation)](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
