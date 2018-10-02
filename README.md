@@ -15,6 +15,12 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab) 
 
+## General Data Engineering
+
+* [Beginners Guide to Data Engineering Part 1](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+* [Beginners Guide to Data Engineering Part 2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [Beginners Guide to Data Engineering Part 3](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
+
 ## Machine Learning
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
@@ -29,6 +35,8 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Geographic
 
 * [Mapshaper](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise and simplify them.
+
+
 
 ## Python
 
