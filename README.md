@@ -23,7 +23,10 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Practical Guide to SVM Classification](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)
+* [Practical Guide to SVM Classification](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
+* [Understanding the SVM Kernel Trick](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
+* [Visualising Multivariate Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+
 
 ## Geographic
 
@@ -101,6 +104,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Data Visualisation
 
 * [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
+* 
 
 
 ## Design
