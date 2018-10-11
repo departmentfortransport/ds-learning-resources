@@ -34,7 +34,8 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Practical Guide to SVM Classification (Paper)](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
 * [Understanding the SVM Kernel Trick (Article)](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
 * [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
-
+* [WTF is the bais/variance tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
+* [Heteroscedasticity Explained](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 
 ## Geographic
 
