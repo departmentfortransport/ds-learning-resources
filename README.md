@@ -25,7 +25,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
 * [Machine Learning Yearning (eBook)](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
-* [Data Science Primer](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
+* [Data Science Primer (Tutorial)](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
 * [Getting Better at Machine Learning (Article)](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)  
 * [Time Series Forcasting with Naive Bayes (Article + Notebook)](https://github.com/departmentfortransport/ds-learning-resources) Good step by step guide to time series forecasting with Naive Bayes and a great example notebook.  
 * [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
@@ -34,12 +34,12 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Practical Guide to SVM Classification (Paper)](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
 * [Understanding the SVM Kernel Trick (Article)](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
 * [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
-* [WTF is the bais/variance tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
-* [Heteroscedasticity Explained](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
+* [WTF is the bias/variance tradeoff? (Article)](https://elitedatascience.com/bias-variance-tradeoff)
+* [Heteroscedasticity Explained (Article)](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 
 ## Geographic
 
-* [Mapshaper](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise and simplify them.
+* [Mapshaper (Tool)](http://mapshaper.org/) Online editor for map data. Allows you to take most GIS data formats and visualise / simplify them.
 
 
 ## Python
@@ -55,7 +55,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Flask for Web Development (Book)](https://www.amazon.co.uk/Flask-Web-Development-Developing-Applications/dp/1449372627) Book detailing end to end web development with Flask.
 * [Datashader with Spark (Article)](http://www.filipyoo.com/plot-visualization-Hadoop-large-dataset-with-python-datashader/) Blog detailing an example of how to use Datashader with big data.
 * [JupyterLab Extensions (Documentation)](http://jupyterlab.readthedocs.io/en/stable/user/extensions.html) How to install JupyterLab extensions.
-* [Jupyter Shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
+* [Jupyter Shortcuts (Article)](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html) List of shortcuts for Jupyter notebooks.
 
 ## R
 
@@ -78,7 +78,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 ### Testing
 
-* [MS VM Images](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`
+* [MS VM Images (Tool)](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) Images of windows machines to allow testing on IE. Note you'll need to install Virtualbox first via `brew cask install virtualbox`
 
 ### Javascript
 
@@ -87,7 +87,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [List of Special Characters (Reference)](https://css-tricks.com/snippets/html/glyphs/)  Codes and decodes for special characters in HTML.
 * [#Javascript30 (Tutorial)](https://javascript30.com/) Vanilla JS tutorial where you learn by building websites.
 * [Git a Web Developer Job (Udemy Course)](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) Online course that makes the jump from writing HTML/CSS/JS to writing modern web applications using dev tools like git, webpack and babel.
-* [Guide to 'this'](http://davidshariff.com/blog/javascript-this-keyword/) Great guide on how to use `this` in JS.
+* [Guide to 'this' (Article)](http://davidshariff.com/blog/javascript-this-keyword/) Great guide on how to use `this` in JS.
 * [Setting up React, Webpack and Babel (Article)](https://www.valentinog.com/blog/react-webpack-babel/) How to set up your development environment using React, Webpack and Babel.
 * [How to set up Webpack 4 (Article)](https://www.valentinog.com/blog/webpack-tutorial/) How to set up Webpack 4.0.
 * [Switching from Gulp to Webpack (Article)](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/) Need to evaluate this...
@@ -114,7 +114,6 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 ## Data Visualisation
 
 * [DataVizCatalogue (Website)](https://datavizcatalogue.com/) Nice overview of various chart types and alongside some links to code (usually in Javascript)
-* 
 
 
 ## Design
