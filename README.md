@@ -51,6 +51,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Python for Data Science & Machine Learning (Udemy Course)](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) Very good introduction to Python for Data Science.
 * [Hitchhiker's Guide to Python (Online Book)](http://docs.python-guide.org/en/latest/) A daily usage "best practice handbook" for Python. The section on [code structure and style](http://docs.python-guide.org/en/latest/#writing-great-python-code) is particularly good.
 * [Python for Analysts (Github Repo)](https://github.com/Tommo565/Python-for-Analysts) Tom's Python for analysts training course. This probably needs updating.
+* [Exploratory Data Analysis in Python (EBook)](http://greenteapress.com/thinkstats2/thinkstats2.pdf) Excellent book on statistical data analysis in Python.
 * [Python Graph Gallery (Website)](https://python-graph-gallery.com/) Gallery of lots of Python charts complete with source code.
 * [Miguel Grinberg's Flask Blog (Website)](https://blog.miguelgrinberg.com/index) Lots of tutorials on various Flask features.
 * [Python Data Science Handbook (ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly book on Data Science with Python, covering Numpy, Pandas, Matplotlib and SKL.
