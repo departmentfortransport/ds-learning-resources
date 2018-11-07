@@ -32,6 +32,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Text Classification (Article)](https://developers.google.com/machine-learning/guides/text-classification/) Google's guide to text classification.
 * [What is Feature Engineering? (Article)](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
 * [What is One Hot Encoding? (Article)](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+* [Introduction to K-Nearest Neighbours (Article)](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26) Good intro to Knn
 * [Practical Guide to SVM Classification (Paper)](https://www.csie.ntu.edu.tw/~r95162/guide.pdf)  
 * [Understanding the SVM Kernel Trick (Article)](https://towardsdatascience.com/understanding-the-kernel-trick-e0bc6112ef78)  
 * [Visualising Multivariate Data (Article)](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
