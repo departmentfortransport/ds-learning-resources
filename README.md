@@ -13,7 +13,11 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Deep Learning Cheat Sheet (Article)](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460) Deep Learning cheat sheet containing high-level descriptions of the various functions.
 * [How to become a Data Scientist in 6 months (Video)](https://www.youtube.com/watch?v=rIofV14c0tc) Video detailing some excellent high level advice on becoming a data scientist.
 * [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
-* [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab) 
+* [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab)  
+
+## Statistics
+
+* [Distributions (Articles)](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/distributions/bernoulli-distribution/) Detailed overview of various data distributions.
 
 ## General Data Engineering
 
