@@ -17,6 +17,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 ## Statistics
 
+* [Distributions CheatSheet (Article)](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) Good overview of various distributions.
 * [Distributions (Articles)](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/distributions/bernoulli-distribution/) Detailed overview of various data distributions.
 
 ## General Data Engineering
