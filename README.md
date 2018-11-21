@@ -67,6 +67,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Using Jupyter in a Virtual Environment (Article)](https://anbasile.github.io/programming/2017/06/25/jupyter-venv/) Guide on setting up a venv kernel for Jupyter Notebooks
 * [Auto Generating Requirements.txt (Article)](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
 How to auto-generate requirements.txt using pip freeze
+* [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
 
 ## R
 
