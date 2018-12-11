@@ -30,6 +30,9 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 
 * [Machine Learning Rules (Article)](https://developers.google.com/machine-learning/guides/rules-of-ml/) Google's guide to best practices in Machine Learning.
 * [Machine Learning Yearning (eBook)](https://docs.wixstatic.com/ugd/90cb81_986a76c2e182457c951d1f649bbe05f3.pdf) Book by Andrew Ng on technical strategy for ML + AI.
+* [ML for Coders](https://course.fast.ai/ml) Good looking course on learning ML from the perspective of a coder.
+* [Conputational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) Another fast.ai course on applied Linear Algebra.
+* [Practical Deep Learning for Coders](https://course.fast.ai/) 7 week fast.ai course on Deep Learning for coders.
 * [Mathmatics for Machine Learning](https://mml-book.github.io/) Book (in progress) about learning the maths behind ML
 * [Data Science Primer (Tutorial)](https://elitedatascience.com/primer) Overview of the steps in building a Machine Learning model.  
 * [Getting Better at Machine Learning (Article)](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)  
