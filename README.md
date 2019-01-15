@@ -72,6 +72,7 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Auto Generating Requirements.txt (Article)](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
 How to auto-generate requirements.txt using pip freeze
 * [A Template for a good README (MD Template)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) Good template to follow when creating a README.md.
+* [How to make a Python Package](https://python-packaging.readthedocs.io/en/latest/minimal.html) Great guide on how to make a Python package.
 
 ## R
 
