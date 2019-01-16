@@ -7,6 +7,16 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Sublime Text Cheatsheet (Mac)](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac/cheatsheet)
 * [Another Sublime Text Cheatsheet](https://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
 
+## General Resources & News Sites
+
+* [Data Science @ Reddit](https://www.reddit.com/r/datascience/) Subreddit and a good place to ask more general data science questions.
+* [Data Science @ Medium](xhttps://medium.com/topic/data-science) Blog and article site with a Data Science sub-section.
+* [Towards Data Science](https://towardsdatascience.com/) Medium based news and articles site.
+* [Kaggle](https://www.kaggle.com/) Branded as the home of Data Science and the place to do data science projects. Has some good data and competitions also.
+* [KDNuggets](https://www.kdnuggets.com/news/index.html) General data science news site.
+* [Data Elixir](https://dataelixir.com/issue/?num=215?sid=AsoKPSC#start) General data science news site.
+* [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)  Weekly newsletter focusing on Ethical AI & ML and Machine Learning Operations.
+
 ## General Data Science
 
 * [How to Start in Data Science (Article)](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAA%2B9IAErD%2BGVz8GcpV%2FsBw%3D%3D) Article on how to get started in Data Science.
