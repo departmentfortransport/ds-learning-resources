@@ -90,6 +90,7 @@ How to auto-generate requirements.txt using pip freeze
 * [Advanced R](http://adv-r.had.co.nz/) Useful when you want to understand the underlying processes of R and write more advanced code (for example, [object orientated programming in R](http://adv-r.had.co.nz/OO-essentials.html))
 * [R packages](http://r-pkgs.had.co.nz/) A good reference book when structuring your code as a package (what files go where + how to handle package imports etc)
 * [R Graph Gallery (Website)](https://www.r-graph-gallery.com/) Gallery of lots of R charts complete with source code.
+* [Introduction to R in 3 hours (HMRC)](https://kai-data-exploitation.github.io/R-intro-course/Course_Material.html) This course covers basic R, data manipulation and plotting in Tidyverse. Course is taught in HMRC and adapted from BEIS and Ofsted material. 
 
 ## Scala
 
