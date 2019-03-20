@@ -25,6 +25,11 @@ A repo for us to share good learning resources, tutorials, cheat-sheets etc. as 
 * [Datacamp Cheat Sheets (Article)](https://www.datacamp.com/community/data-science-cheatsheets) A collection of Python, R, Jupyter Cheat Sheets from DataCamp. 
 * [Seven Practical Ideas for Beginner Data Scientists (Article)](https://medium.com/nulogy/seven-practical-ideas-for-beginner-data-scientists-9af97aeb88ab)  
 
+## Style / standards guides
+* [Data Science Campus coding standards](https://datasciencecampus.github.io/coding-standards/) General coding standards guide.
+* [Health and Social Care Scotland R style guide](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) R focussed style guide.
+* [rOpenSci Packages: Development, Maintenance, and Peer Review](https://ropensci.github.io/dev_guide/) Standards and reccomendations for the developement, maintenance and peer-review of R packages.
+
 ## Statistics
 
 * [Distributions CheatSheet (Article)](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) Good overview of various distributions.
